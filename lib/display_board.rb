@@ -24,9 +24,10 @@ end
 puts"-----------"
 
 def display_board
-print "   |   |   "
-print " ----------- "
-print "   |   |   "
-print " ----------- "
-print "   |   |   "
+puts "Tic Tac Toe Board"  
+puts "   |   |   "
+puts " ----------- "
+puts "   |   |   "
+puts " ----------- "
+puts "   |   |   "
 end
