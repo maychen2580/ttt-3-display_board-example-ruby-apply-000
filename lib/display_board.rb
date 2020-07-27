@@ -9,7 +9,7 @@ puts "--------------"
 puts "   |    |"
 end
   
-puts  
+puts  " |   |   "
 
 puts "    |    |  "
 puts " --------------"
